@@ -71,7 +71,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-You will need to settle up a compiler for C. There is many but I recommend downloading ![Visual Studio Code](https://code.visualstudio.com/) and getting the C/C++ extension that it provides. 
+You will just need Python to run it. You can get it from the offical Python website.
 
 
 ### Installation and Usage
